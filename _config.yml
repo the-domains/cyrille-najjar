@@ -1,0 +1,28 @@
+name: Cyrille Najjar
+favicon: null
+layout_spectrum: 0.8278981007169932
+typography_spectrum: 0.17828128999099135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7299182659480721
+  lightness: 0.5886917558964342
+  saturation: 0.22774909134022892
+  rhythmicContrast: 0.6101415778975934
+purpose: []
