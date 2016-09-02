@@ -1,28 +1,40 @@
-name: Cyrille Najjar
-favicon: null
-layout_spectrum: 0.24693
-typography_spectrum: 0.17828128999099135
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7670251
+  brandStrength: 1
+  lightness: 0.562724
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C0C0C0'
+    - '#525358'
+    - '#8B8D90'
+  rhythmicContrast: 0.483871
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Cyrille Najjar
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#a1aebe'
-    - '#dbe0e9'
-    - '#94040b'
-    - '#404e55'
-  brandStrength: 0.75
-  lightness: 0.5886917558964342
-  saturation: 0.22774909134022892
-  rhythmicContrast: 0.6101415778975934
-purpose: []
+typography_spectrum: 0.5358423
+layout_spectrum: 0.1326165
